@@ -1,0 +1,19 @@
+h1.pagetitle {
+   margin-left: auto;
+   margin-right: auto;
+   width: 10em;
+}
+
+.bgcolor {
+    background-color: aqua;
+    align-items: center;
+}
+
+.recipe-list {
+    font-size: 35px;
+    color: black;
+    font-weight: bold;
+}
+body {
+    background-color: blueviolet;
+}
